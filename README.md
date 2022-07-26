@@ -44,7 +44,7 @@ Peças: Pawn (Peão), Rook (Torre), Knight (Cavalo), Bishop (Bispo), Queen (Rain
 - **Target** é o destino, ou seja, o local no qual o jogador irá mover a peça.
 - O jogo possui sistema de **Check** e **CheckMate**
   
-## ♟️ Instalacao
+## ♟ Instalacao
 
 1. Faça o dowload e extração do projeto. 
 2. Abra um terminal ([Git Bash](https://git-scm.com/book/pt-pt/v2/Appendix-A%3A-Git-em-Outros-Ambientes-Git-in-Bash) é o recomendado, pois é colorido)
@@ -54,14 +54,18 @@ Peças: Pawn (Peão), Rook (Torre), Knight (Cavalo), Bishop (Bispo), Queen (Rain
 
 ## 🖼️ Imagens
 
-| Tela Inicial  | Tratamento de Erro | Check | 
+| Tela Inicial  | Movimentos Possíveis | Peças Capturadas | 
 |---|---|---|
 | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | 
 
-| Jogada Roque (Castling)  | Jogando... | Jogadas Finais | 
+| Jogando...   | BoardException | ChessException | 
 |---|---|---|
 | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | 
 
-| Jogada Roque (Castling)  | Jogando... | Jogadas Finais | 
+| Jogada Especial (en passant)  | Jogada Especial (promoção) | Jogada Especial (compliance) | 
+|---|---|---|
+| ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | 
+
+| Contagem de Movimentos  | Xeque | Xeque Mate | 
 |---|---|---|
 | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | 

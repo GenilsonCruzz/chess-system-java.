@@ -69,3 +69,7 @@ Peças: Pawn (Peão), Rook (Torre), Knight (Cavalo), Bishop (Bispo), Queen (Rain
 | Contagem de Movimentos  | Xeque | Xeque Mate | 
 |---|---|---|
 | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | 
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.

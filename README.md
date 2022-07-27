@@ -56,19 +56,19 @@ Peças: Pawn (Peão), Rook (Torre), Knight (Cavalo), Bishop (Bispo), Queen (Rain
 
 | Tela Inicial  | Movimentos Possíveis | Peças Capturadas | 
 |---|---|---|
-| ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | 
+| ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Movimentos Possíveis](https://user-images.githubusercontent.com/106387209/181270393-e425a221-9f45-4dc2-af6e-b068e746e8d4.png)  | ![Peças Capturadas](https://user-images.githubusercontent.com/106387209/181270389-dff68d43-00bb-4a85-85ce-133224e1503e.png)  | 
 
 | Alerta de Xeque   | BoardException | ChessException | 
 |---|---|---|
-| ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | 
+| ![Alerta xeque](https://user-images.githubusercontent.com/106387209/181270409-daa01130-a0ae-4312-8e1c-1eda907284a4.png)  | ![BoardException](https://user-images.githubusercontent.com/106387209/181270405-a0bf9515-3f46-4fc8-8a21-d2f599b5a2ab.png)  | ![ChessException](https://user-images.githubusercontent.com/106387209/181270402-705b8d63-128b-4983-9010-697857fd26d9.png)  | 
 
 | Jogada Especial (en passant)  | Jogada Especial (promoção) | Jogada Especial (roque) | 
 |---|---|---|
-| ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | 
+| ![en passant](https://user-images.githubusercontent.com/106387209/181270397-806dfb49-7aae-4563-87a6-c4ca6e8ac095.png)  | ![promoção](https://user-images.githubusercontent.com/106387209/181270386-c2b64508-4a3e-46ae-b2cd-e32ac86dc5d7.png)  | ![Roque](https://user-images.githubusercontent.com/106387209/181270379-98e190be-aeaa-4c63-9c65-372017d7ffb7.png)  | 
 
 | Contagem de Movimentos  | Xeque | Xeque Mate | 
 |---|---|---|
-| ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png)  | 
+| ![Contagem de movimentos](https://user-images.githubusercontent.com/106387209/181270399-d34b513e-9b8f-4e06-b214-925dddb348be.png)  | ![Xeque](https://user-images.githubusercontent.com/106387209/181270363-d4729cae-4a06-4760-8bb6-07290b816205.png)  | ![Xeque Mate](https://user-images.githubusercontent.com/106387209/181270374-02b44616-e711-4ba9-8d7a-1ec41450112a.png)  | 
 
 ## 📝 Licença
 

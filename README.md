@@ -56,7 +56,7 @@ Peças: Pawn (Peão), Rook (Torre), Knight (Cavalo), Bishop (Bispo), Queen (Rain
 
 | Tela Inicial   | Movimentos Possíveis | Peças Capturadas | 
 |---|---|---|
-| ![Visão Geral](https://user-images.githubusercontent.com/106387209/181012735-9bcb5390-b02a-4a6a-a99b-262e41200708.png) | ![Movimentos Possíveis](https://user-images.githubusercontent.com/106387209/181270393-e425a221-9f45-4dc2-af6e-b068e746e8d4.png)  | ![Peças Capturadas](https://user-images.githubusercontent.com/106387209/181270389-dff68d43-00bb-4a85-85ce-133224e1503e.png)  | 
+| ![Visão Geral](https://user-images.githubusercontent.com/106387209/181274608-31e3e11e-df72-48c0-88a9-f11633d5cf9e.png)  | ![Movimentos Possíveis](https://user-images.githubusercontent.com/106387209/181270393-e425a221-9f45-4dc2-af6e-b068e746e8d4.png)  | ![Peças Capturadas](https://user-images.githubusercontent.com/106387209/181270389-dff68d43-00bb-4a85-85ce-133224e1503e.png)  | 
 
 | Alerta de Xeque   | BoardException | ChessException | 
 |---|---|---|

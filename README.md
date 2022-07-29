@@ -30,14 +30,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Java
 
 ## 💻 Sobre o projeto
-  Este projeto foi desenvolvido com o intuito de aplicar e demonstrar os conhecimentos obtidos na linguagem java, e do paradigma orientado a objetos. O projeto conta com a aplicação de todos os elementos do paradigma(encapsulamento, herança e polimorfismo), além do uso de recursos presentes no java, como o tratamento de exceções.
+  Este projeto foi desenvolvido com o intuito de aplicar e demonstrar os conhecimentos obtidos na linguagem java e do paradigma orientado a objetos. O projeto conta com a aplicação de todos os elementos do paradigma (encapsulamento, herança e polimorfismo), além do uso de outros recursos presentes no java, como o tratamento de exceções.
 A aplicação consiste em um jogo simples de Xadrez, que é executado através do terminal. O jogo possui programação defensiva através do tratamento de possíveis erros, além das jogadas especiais do xadrez (promoção, roque e en passant) e marcação dos possíveis movimentos.
   
 Peças: Pawn (Peão), Rook (Torre), Knight (Cavalo), Bishop (Bispo), Queen (Rainha) e King (Rei).
 |-|
 
  As peças estão dispostas em um sistema de linhas (1, 2, 3, 4, 5, 6, 7, 8)  e colunas (a, b, c, d, e, f, g, h).
-- Para escolher a peça, é necessário que o turno seja condizente  com a cor da peça do jogador.
+- Para escolher a peça, é necessário que o turno seja condizente com a cor da peça do jogador.
 - A movimentação deve ser feita selecionando primeiramente a  coluna e logo em seguida (sem espaços) selecionar a linha. Exemplo: a1
 - Em **Captured pieces** o jogo exibe as peças capturadas.
 - O **Turn** exibe o turno (rodada) em que o jogo está.

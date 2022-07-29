@@ -30,21 +30,23 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Java
 
 ## 💻 Sobre o projeto
-  Este projeto foi desenvolvido com base no curso  *__Java COMPLETO 2020 Programação Orientada a Objetos + Projetos__* da [Udemy](https://www.udemy.com/course/java-curso-completo/). Esta aplicação consiste em um jogo simples de Xadrez, que pode ser executado através do terminal. O jogo possui tratamento de erros, programação defensiva (contra bugs), jogadas especiais do xadrez (promoção, roque e en passant) e previsão de movimento das peças.
+  Este projeto foi desenvolvido com o intuito de aplicar e demonstrar os conhecimentos obtidos na linguagem java, e do paradigma orientado a objetos. O projeto conta com a aplicação de todos os elementos do paradigma(encapsulamento, herança e polimorfismo), além do uso de recursos presentes no java, como o tratamento de exceções.
+A aplicação consiste em um jogo simples de Xadrez, que é executado através do terminal. O jogo possui programação defensiva através do tratamento de possíveis erros, além das jogadas especiais do xadrez (promoção, roque e en passant) e marcação dos possíveis movimentos.
   
 Peças: Pawn (Peão), Rook (Torre), Knight (Cavalo), Bishop (Bispo), Queen (Rainha) e King (Rei).
 |-|
 
- A mecânica do jogo é baseada em **linhas** (_1, 2, 3, 4, 5, 6, 7, 8_) e **colunas** (_a, b, c, d, e, f, g, h_)
-- Para **escolher** uma peça é necessário selecionar _primeiramente_ a **coluna** e logo em seguida (sem espaços) selecionar a **linha**, exemplo: **c2**
-- Em **Captured pieces** o jogo armazena as peças capturadas.
+ As peças estão dispostas em um sistema de linhas (1, 2, 3, 4, 5, 6, 7, 8)  e colunas (a, b, c, d, e, f, g, h).
+- Para escolher a peça, é necessário que o turno seja condizente  com a cor da peça do jogador.
+- A movimentação deve ser feita selecionando primeiramente a  coluna e logo em seguida (sem espaços) selecionar a linha. Exemplo: a1
+- Em **Captured pieces** o jogo exibe as peças capturadas.
 - O **Turn** exibe o turno (rodada) em que o jogo está.
-- **Waiting player** exibe qual é o jogador a jogar a próxima peça.
+- **Waiting player** exibe qual é o jogador que realizará a próxima jogada.
 - **Source** é a origem, ou seja, a peça no qual o jogador irá jogar.
-- **Target** é o destino, ou seja, o local no qual o jogador irá mover a peça.
-- O jogo possui sistema de **Check** e **CheckMate**
+- **Target** é o destino, ou seja, o local para o qual o jogador irá mover a peça.
+- O jogo possui sistema de alerta de **Xeque e XequeMate**, para que não permita que o próprio jogador se coloque em posição de **Xeque**.
   
-## ♟ Instalacao
+## ♟ Como Jogar
 
 1. Faça o dowload e extração do projeto. 
 2. Abra um terminal ([Git Bash](https://git-scm.com/book/pt-pt/v2/Appendix-A%3A-Git-em-Outros-Ambientes-Git-in-Bash) é o recomendado, pois é colorido)
